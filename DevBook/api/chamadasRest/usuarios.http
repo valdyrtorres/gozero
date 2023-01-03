@@ -1,0 +1,14 @@
+## GET request
+get http://localhost:5000/usuarios
+
+### Get Busca um usuário
+get http://localhost:5000/usuarios/1
+
+### Cria um usuário
+post http://localhost:5000/usuarios
+
+### Atualiza um usuário
+put http://localhost:5000/usuarios/2
+
+### Delete um usuário
+delete http://localhost:5000/usuarios/2
